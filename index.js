@@ -1,7 +1,7 @@
 console.log("hello world");
 
-const multiply = (a, b) => {
-    return a*b;
+const minus = (a, b) => {
+    return a-b;
 }
 
-console.log(multiply(2,2));
+console.log(minus(2,2));
