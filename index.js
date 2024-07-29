@@ -1,7 +1,7 @@
 console.log("hello world");
 
-const sum = (a, b) => {
-    return a+b;
+const multiply = (a, b) => {
+    return a*b;
 }
 
-console.log(sum(2,2));
+console.log(multiply(2,2));
